@@ -11,3 +11,5 @@ the meta-analysis is found in src/gelman_meta_analysis_data.txt.
 
 The script src/meta_analysis_markdown.RMD can also be used to reproduce the results and a cursory version of the final report.
 
+Note that this is not an endoresement of ivermectin as a COVID-19 treatment. It is intended to be a case-study on the effects of prior information 
+in the context of meta-analyses, with an interesting and controversial data source.
